@@ -2,6 +2,9 @@
 main()
 {
 add();
+{
+print("addition of a and b",sum);
+}
 sub();
 mul();
 div();
