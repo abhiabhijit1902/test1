@@ -6,6 +6,15 @@ add();
 print("addition of a and b",sum);
 }
 sub();
+{
+print("subtraction of a and b",sub);
+}
 mul();
+{
+print("Multiplication of a and b ",mul);
+}
 div();
+{
+print("division of a and b ",div)
+}
 }
