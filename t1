@@ -17,4 +17,5 @@ div();
 {
 print("division of a and b ",div)
 }
+print("hello")
 }
